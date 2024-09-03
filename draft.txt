@@ -1,0 +1,18 @@
+1920/1080
+1280/720
+
+sqrt(1280² + 720²) = 1468,604780055
+sqrt(1408² + 792²) = 1615,46525806
+
+hip² = (1920x)² + (1080x)²
+hip² = 3686400x² + 1166400x²
+hip² = 14400(256x² + 81x²)
+hip = sqrt(14400(256x² + 81x²))
+hip = 120sqrt(256x²+81x²)
+1920x1080 -> zoom
+gerar a imagem fullsize
+
+
+curX * factor -> finX
+ startX = curX - finX
+curY * factor -> finY
