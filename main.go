@@ -34,7 +34,7 @@ var color = RGBA{
 	A: 255,
 }
 
-const LastFrameTotalFactor = 1.1 // WIP: e.g: If you want to zoom until the image is 110% of the original, set this to 0.1
+const LastFrameTotalFactor = 1.1 // WIP: e.g: If you want to zoom until the image is 110% of the original, set this to 1.1
 const Factor = 0.02
 const TargetSizeX = 1920
 const TargetSizeY = 1080
